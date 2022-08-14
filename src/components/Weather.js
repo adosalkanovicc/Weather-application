@@ -18,6 +18,7 @@ const Weather = () => {
     };
 
   return (
+    
     <div>
         <video src={videoBg} autoPlay loop muted  className='background'/>
         <div className='container'>
